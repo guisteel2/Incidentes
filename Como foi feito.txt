@@ -1,0 +1,5 @@
+Desenvolvi essa aplicação com xampp,  PHP 7.2.5 com o bootstrap v4.1.1 e Jquery 3.3.1 com o banco de dados Mysqli
+
+Através do código que foi enviado do Banco de dados, Produzi um banco de dados no mysql php admin, com as classe e os ligamento como Primary-key e Forreign-key como demonstra na imagem que estou enviando como banco.pnj.
+
+OBS: Desculpe não Padronizar o PHP, pois não tenho tanto conhecimento nessa linguagem ainda.  

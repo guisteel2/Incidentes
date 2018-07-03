@@ -1,0 +1,9 @@
+@charset "UTF-8";
+div#modifica h3{
+  font-size: 25px;
+  }
+
+  .carregando{
+  	color:#ff0000;
+  	display:none;
+  			}
